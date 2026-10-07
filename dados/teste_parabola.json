@@ -1,0 +1,56 @@
+{
+ "balanco_artigo_residuo_relativo": [
+  0.024472312998591872,
+  0.08639683826898861,
+  0.26323635076876023,
+  1.382368438010017,
+  13.341649515867042
+ ],
+ "estabilidade_artigo": {
+  "N=16 dt=h": {
+   "estavel_ate_t2": true,
+   "max_u": 16.543828984811086
+  },
+  "N=16 dt parabolico": {
+   "estavel_ate_t2": false,
+   "max_u": 5039.7286032781485
+  },
+  "N=32 dt=h": {
+   "estavel_ate_t2": false,
+   "max_u": 2757.3934223416877
+  },
+  "N=32 dt parabolico": {
+   "estavel_ate_t2": false,
+   "max_u": 1113.2714251122566
+  },
+  "N=48 dt=h": {
+   "estavel_ate_t2": false,
+   "max_u": 60168.0053040617
+  },
+  "N=48 dt parabolico": {
+   "estavel_ate_t2": false,
+   "max_u": 51520.00876963137
+  }
+ },
+ "corrigido_euler_erro_energia": 4.6629367034256575e-14,
+ "convergencia_corrigido": {
+  "32": {
+   "Zmax": 2.6699344263262317,
+   "Z0": 0.375,
+   "Efinal": 0.07621627125481298,
+   "energia_monotona": true,
+   "s": 25.495554208755493
+  },
+  "48": {
+   "Zmax": 2.6125680832938176,
+   "Z0": 0.374999999999999,
+   "Efinal": 0.07318914083310182,
+   "energia_monotona": true,
+   "s": 158.301908493042
+  },
+  "64": {
+   "Zmax": 2.329657962092945
+  }
+ },
+ "referencia_espectral_Zmax_128": 2.1916
+}

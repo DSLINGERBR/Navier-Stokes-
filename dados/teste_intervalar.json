@@ -1,0 +1,104 @@
+{
+ "precisao_53_bits": [
+  {
+   "passo": 1,
+   "largura_max": 4.440892098500626e-16,
+   "tempo_s": 0.010970592498779297,
+   "contem_valor_exato": true,
+   "contem_float": true
+  },
+  {
+   "passo": 2,
+   "largura_max": 1.3322676295501878e-15,
+   "tempo_s": 0.01486515998840332,
+   "contem_valor_exato": true,
+   "contem_float": true
+  },
+  {
+   "passo": 4,
+   "largura_max": 3.1086244689504383e-15,
+   "tempo_s": 0.014544010162353516,
+   "contem_valor_exato": true,
+   "contem_float": true
+  },
+  {
+   "passo": 8,
+   "largura_max": 6.217248937900877e-15,
+   "tempo_s": 0.01098775863647461,
+   "contem_valor_exato": true,
+   "contem_float": true
+  },
+  {
+   "passo": 15,
+   "largura_max": 1.9206858326015208e-14,
+   "tempo_s": 0.010672330856323242,
+   "contem_valor_exato": null,
+   "contem_float": true
+  },
+  {
+   "passo": 30,
+   "largura_max": 1.6231460620019789e-13,
+   "tempo_s": 0.010889530181884766,
+   "contem_valor_exato": null,
+   "contem_float": true
+  },
+  {
+   "passo": 60,
+   "largura_max": 4.5563552930616424e-12,
+   "tempo_s": 0.009932756423950195,
+   "contem_valor_exato": null,
+   "contem_float": true
+  }
+ ],
+ "precisao_106_bits": [
+  {
+   "passo": 1,
+   "largura_max": 4.930380657631324e-32,
+   "tempo_s": 0.009959697723388672,
+   "contem_valor_exato": true,
+   "contem_float": false
+  },
+  {
+   "passo": 2,
+   "largura_max": 1.4791141972893971e-31,
+   "tempo_s": 0.008775472640991211,
+   "contem_valor_exato": true,
+   "contem_float": false
+  },
+  {
+   "passo": 4,
+   "largura_max": 2.9582283945787943e-31,
+   "tempo_s": 0.010654926300048828,
+   "contem_valor_exato": true,
+   "contem_float": false
+  },
+  {
+   "passo": 8,
+   "largura_max": 6.902532920683853e-31,
+   "tempo_s": 0.010408878326416016,
+   "contem_valor_exato": true,
+   "contem_float": false
+  },
+  {
+   "passo": 15,
+   "largura_max": 2.1693674893577825e-30,
+   "tempo_s": 0.014316797256469727,
+   "contem_valor_exato": null,
+   "contem_float": false
+  },
+  {
+   "passo": 30,
+   "largura_max": 1.8057519158574723e-29,
+   "tempo_s": 0.011919736862182617,
+   "contem_valor_exato": null,
+   "contem_float": false
+  },
+  {
+   "passo": 60,
+   "largura_max": 5.056844921499567e-28,
+   "tempo_s": 0.008392095565795898,
+   "contem_valor_exato": null,
+   "contem_float": false
+  }
+ ]
+}
