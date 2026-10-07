@@ -7,6 +7,7 @@
 
 - Artigo: [`artigo/A_Via_dos_Quadrados_Perfeitos_Davi_Cota.pdf`](artigo/A_Via_dos_Quadrados_Perfeitos_Davi_Cota.pdf)
 - Código de verificação: pacote `via_sq` (abaixo).
+- Documento elaborado com modelo da Tencent: [`artigo/Documento_Tencent_Via_SQ_corrigido.pdf`](artigo/Documento_Tencent_Via_SQ_corrigido.pdf) — princípios filosófico-matemáticos do autor; cálculos e redação feitos por modelo de IA da Tencent (“Hyfour”); polimento textual final por Claude. Documento distinto do artigo final; publicado para verificação. Onde divergem, valem os resultados testados do artigo final (Parte VII).
 
 O assistente Claude (Anthropic) foi usado como ferramenta técnica nos cálculos, no código e na redação técnica; os princípios filosófico-matemáticos são do autor.
 
